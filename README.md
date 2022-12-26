@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS, JS
 - 📫 How to reach me: oleksiizakomornyi@gmai.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksiiZakomorny1&show_icons=true&theme=merko)
-
-![](https://komarev.com/ghpvc/?username=OleksiiZakomorny1&color=green)
-
 
 
 
